@@ -6,7 +6,7 @@
  * or related systems. Please exercise caution as any changes
  * made to this file may be overwritten.
  * ------------------------------------------------------------
- */{
+ */ {
   "sections": {
     "hero_jVaWmY": {
       "type": "hero",
@@ -15,7 +15,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Browse our latest products</p>",
+            "text": "<p>Browse our latest productshh</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -53,10 +53,7 @@
           "blocks": {}
         }
       },
-      "block_order": [
-        "text_YLPk4p",
-        "button_H9gpTf"
-      ],
+      "block_order": ["text_YLPk4p", "button_H9gpTf"],
       "name": "t:names.hero",
       "settings": {
         "media_type_1": "image",
@@ -279,8 +276,5 @@
       }
     }
   },
-  "order": [
-    "hero_jVaWmY",
-    "product_list_fa6P9H"
-  ]
+  "order": ["hero_jVaWmY", "product_list_fa6P9H"]
 }
